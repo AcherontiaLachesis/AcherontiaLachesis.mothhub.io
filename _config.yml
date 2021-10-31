@@ -1,12 +1,1 @@
 theme: jekyll-theme-minimal
- <style>
-    #cringememe {
-      font-weight: bold;
-      text-align: center;
-    }
-    #based {
-      font-style: italic;
-    }
-  
-
-  </style>
