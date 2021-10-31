@@ -3,7 +3,7 @@
 <h2> Season's Greetings </h2>
 <p> You might be thinking "What is this website" or "Why is it named 'The Moth Hub'". Fret not! I have answers to these questions in the obligatory and contractually required FAQ section! </p>
 <h2> FAQ </h2>
-<h4><strong> Why is it named <em> The Moth Hub </em> </strong> </h4>
+<h4 id="cringememe"> Why is it named <em> The Moth Hub </em> </h4>
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
