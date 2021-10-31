@@ -1,4 +1,13 @@
-<h2> Commentary </h2>
+<h1> Commentary </h1>
+<h2> Table of Contents </h2>
+
+[Sacrosanct](###sacrosanct)
+
+[Apotheosis](###apotheosis)
+
+[Eclipse](###eclipse)
+
+[Firestorm](###firestorm)
 
 <h3>Sacrosanct</h3>
 
