@@ -1,13 +1,4 @@
 <h1> Commentary </h1>
-<h2> Table of Contents </h2>
-
-[Sacrosanct](https://github.com/AcherontiaLachesis/AcherontiaLachesis.mothhub.io/blob/gh-pages/about/commentary.md#sacrosanct)
-
-[Apotheosis](###apotheosis)
-
-[Eclipse](###eclipse)
-
-[Firestorm](###firestorm)
 
 <h3>Sacrosanct</h3>
 
