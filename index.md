@@ -1,13 +1,3 @@
-<style>
-  #cringememe {
-    font-weight: bold;
-  }
-  #based {
-    font-style: italic;
-  }
-  
-
-</style>
 
 <h1> Welcome to the Moth Hub </h1>
 <h2> Season's Greetings </h2>
