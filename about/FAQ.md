@@ -13,6 +13,9 @@
 <h4> Have you thought of putting your music on other services than Soundcloud and Youtube?</h4>
 <p>Yes! I've though about putting it on Spotify multiple times, but it actually costs money to put your music on to Spotify, which kinda turned me off when it came to the idea of putting it on Spotify.</p>
 
+<h4>When's the next release?</h4>
+<p>It's a secret ;) </p>
+
 <h4> Honestly seems like a <em> 5head </em> moment. <em> KEKW </em> get owned </h4>
 <p> what does that even mean?????? </p>
 
