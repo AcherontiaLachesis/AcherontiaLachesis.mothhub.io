@@ -5,4 +5,4 @@
 <p> The <em> <strong> WHOLE BRAND NAME </em> </strong> is based on a moth species name! (Acherontia Lachesis is the Greater Death's Head Hawkmoth.) </p>
 <h4> Honestly seems like a <em> 5head </em> moment. <em> KEKW </em> get owned </h4>
 <p> what does that even mean?????? </p>
-<h3 style='color: red;'> That was awful, now onto the actually important section </h3>
+
