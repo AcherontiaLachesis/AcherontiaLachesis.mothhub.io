@@ -8,7 +8,7 @@
 
 [Music Plans](https://acherontialachesis.github.io/AcherontiaLachesis.mothhub.io/about/plans.html)
 
-[Commentary](https://acherontialachesis.github.io/AcherontiaLachesis.mothhub.io/about/)
+[Commentary](https://acherontialachesis.github.io/AcherontiaLachesis.mothhub.io/about/commentary.html)
 
 [Youtube Channel](https://www.youtube.com/channel/UCdLFJt37mICtalYdJ9wnksw)
 
