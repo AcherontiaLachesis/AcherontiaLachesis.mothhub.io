@@ -1,30 +1,20 @@
-## Welcome to GitHub Pages
+<style>
+  #cringememe {
+    font-weight: bold;
+  }
+  #based {
+    font-style: italic;
+  }
+  
 
-You can use the [editor on GitHub](https://github.com/AcherontiaLachesis/AcherontiaLachesis.mothhub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+</style>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1> Welcome to the Moth Hub </h1>
+<h2> Season's Greetings </h2>
+<p> You might be thinking "What is this website" or "Why is it named 'The Moth Hub'". Fret not! I have answers to these questions in the obligatory and contractually required FAQ section! </p>
+<h2> FAQ </h2>
+<h4><strong> Why is it named <em> The Moth Hub </em> </strong> </h4>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
